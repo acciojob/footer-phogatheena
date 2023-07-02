@@ -10,19 +10,39 @@
 	justify-content:space-between;
 	padding:40px 0px 0px 0px;
 	color:white;
-	
+	font-size:30px;
 }
 .bottom-details
 {
 	display:flex;
-	justify-content:space-between;
 	width:100%;
-	background-color:black;
+	justify-content:space-between;
 	color:white;
 	
 }
+.top
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	
+}
+
+.logo_name
+{
+	font-size:35px;
+	color:white;
+}
 p{
-	padding:10px;
+	padding:15px;
+	color:slategray;
+	font-size:20px;
+}
+.one
+{
+	color:white;
+	background-color:darkcyan;
+	width:100%;
 }
 a{
 	text-decoration:none;
@@ -32,4 +52,9 @@ a{
 {
 	display:flex;
 	flex-direction:column;
+}
+img{
+	padding:10px;
+	width:30px;
+	height:30px;
 }
