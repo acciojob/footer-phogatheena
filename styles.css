@@ -58,3 +58,7 @@ img{
 	width:30px;
 	height:30px;
 }
+.media-icons
+{
+	display:flex;
+}
